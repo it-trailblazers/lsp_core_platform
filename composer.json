@@ -5,6 +5,9 @@
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "repositories": [
+        {"type": "vcs", "url": "https://github.com/it-trailblazers/lsp_profile"}
+    ],
     "require": {
         "php": "~7.1.10",
         "drupal/console": "^1.0.2",
