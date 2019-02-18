@@ -11,7 +11,8 @@
         "drupal/core": "^8.6.0",
         "drush/drush": "~8.1.16",
         "drupal-composer/drupal-security-advisories": "8.x-dev",
-        "roave/security-advisories": "dev-master"
+        "roave/security-advisories": "dev-master",
+        "lsp/lsp_profile": "dev"
     },
     "require-dev": {
         "webflo/drupal-core-require-dev": "^8.6.0"
