@@ -1,6 +1,6 @@
 {
     "name": "lsp/lsp_core_platform",
-    "description": "LSP Core platform for",
+    "description": "LSP Core platform",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
